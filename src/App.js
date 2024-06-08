@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React JS
+          Learn React JS in new_branch
         </a>
       </header>
     </div>
