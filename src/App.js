@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React JS in new_branch
+          Learn React JS in new_branch pull_req
         </a>
       </header>
     </div>
